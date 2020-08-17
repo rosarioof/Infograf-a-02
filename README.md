@@ -1,4 +1,5 @@
 # Infografia-02
+(17|08|2020) Clase 02 Infografía Digital --> Antecedentes: Entre el diseño de información y el visual storytelling
 
 Bibliografía
 - https://www.atlasobscura.com/articles/florence-nightingale-infographic
